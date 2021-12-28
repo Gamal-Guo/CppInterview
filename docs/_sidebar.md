@@ -1,4 +1,0 @@
-- [README](README.md)
-- C++
-  - [ C++基础](C++/C++基础.md)
-  - [Effective系列](C++/Effective系列.md)
